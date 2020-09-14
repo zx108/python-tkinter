@@ -13,7 +13,7 @@ window = tk.Tk()
 
 window.title('Entry 控件')
 
-window.geometry('400x400')
+window.geometry('400x200')
 
 
 label1 = tk.Label(window,text='摄氏度：')
