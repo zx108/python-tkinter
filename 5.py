@@ -22,7 +22,7 @@ enter = tk.Entry(window,text='0')
 
 label2 = tk.Label(window,text='华氏度：')
 
-label = tk.Label(window,text='代计算',fg='red')
+label = tk.Label(window,text='待计算',fg='red')
 
 button = tk.Button(window,text='计算',command = jisuan)
 
